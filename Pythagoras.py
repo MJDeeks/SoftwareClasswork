@@ -8,4 +8,5 @@ c = int(c)
 
 i = math.atan(a/b)
 
-print('Your c variabale is: ',c)
+print('Your c variable is: ',c)
+
